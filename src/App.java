@@ -7,7 +7,7 @@ public class AWTTestSwing { // classe principal
     
     public static void main(String[] args) { 
         
-        // Cria a janela
+        // cria a janela
         JFrame frame = new JFrame("AWT Test"); 
         
         // Fecha o codigo quando fecha o programa
@@ -21,7 +21,7 @@ public class AWTTestSwing { // classe principal
 
         JLabel label1 = new JLabel("Label1"); 
         
-        // cris o csmpo de texto.
+        // cria o campo de texto.
         JTextField textField1 = new JTextField(15); 
 
         // faz um painel que fica em cima 
@@ -41,7 +41,7 @@ public class AWTTestSwing { // classe principal
         // cria o botao secundario
         JButton button2 = new JButton("Button 2"); 
         
-        // cria o 3 botaao
+        // cria o 3 botao
         JButton button3 = new JButton("Button 3"); 
 
         // faz o painel para os botoes
